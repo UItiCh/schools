@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="school:war" />
+      <artifact name="school:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a87c3bc9-fcce-4351-a3ca-bd8c2e86c0e9" name="Default Changelist" comment="6/7">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/school_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/static/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/static/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/static/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/static/fonts/icomoon.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/school_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/school_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/admin/AdminLogin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/admin/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/admin/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/AdminClassesController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/AdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/AdminCourseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/AdminDiagramController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/AdminLoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/AdminStudentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/AdminTeacherController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/ClientActivityController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/ClientController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/ClientStudentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/ClientTeacherController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/HLHSController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/StudentChooseCourseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/StudentLoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/TeacherController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/TeacherCourseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/TeacherLoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/controller/UploadGradeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/AdminLoginMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/AdminLoginMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/ClassesMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/ClassesMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/CourseMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/CourseMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/JobsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/JobsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/LectureMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/LectureMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/SheTuanActivityMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/SheTuanActivityMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/StudentChooseCourseMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/StudentChooseCourseMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/StudentCourseMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/StudentCourseMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/StudentLoginMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/StudentLoginMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/StudentMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/StudentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/StudentScoreMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/StudentScoreMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/TeacherClassMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/TeacherClassMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/TeacherCourseMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/TeacherCourseMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/TeacherGiveScoreMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/TeacherGiveScoreMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/TeacherLoginMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/TeacherLoginMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/TeacherMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/TeacherMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/UploadGradeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/dao/UploadGradeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/interceptor/AdminInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/interceptor/ClientStudentInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/interceptor/ClientTeacherInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/Classes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/ClassesSmall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/CourseScore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/CourseSmall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/Jobs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/Lecture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/Lost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/Score.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/SheTuan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/SheTuanActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/StudentLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/StudentSmall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/Tcourse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/TeacherLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/pojo/TeacherSmall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/AdminLoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/ClassesService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/CourseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/JobsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/LectureService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/SheTuanActivityService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/StudentChooseCourseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/StudentCourseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/StudentLoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/StudentScoreService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/TeacherClassService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/TeacherCourseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/TeacherLoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/TeacherService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/UploadGradeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/impl/AdminLoginServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/impl/ClassesServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/impl/CourseServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/impl/JobsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/impl/LectureServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/impl/SheTuanActivityServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/impl/StudentChooseCourseServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/impl/StudentCourseServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/impl/StudentLoginServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/impl/StudentScoreServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/impl/StudentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/impl/TeacherClassServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/impl/TeacherCourseServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/impl/TeacherLoginServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/impl/TeacherServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/service/impl/UploadGradeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/com/ecut/utils/GetId.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/spring-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/spring-mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/classes/spring-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/HLHS.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/jobs.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/lecture.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/news1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/news10.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/news2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/news3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/news4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/news6.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/news7.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/news8.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/news9.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/score.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/shetuan.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/student.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/studentLogin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/teacher.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/client/teacherLogin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/failed/404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/failed/failed.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/jsp/test.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/c3p0-0.9.5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/http_cdn.bootcss.com_jquery_2.2.4_jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/http_cdn.staticfile.org_jquery_3.2.1_jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/jsp-api-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/junit-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/lombok-1.18.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/mchange-commons-java-0.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/mybatis-3.5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/mybatis-spring-2.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.29.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/protobuf-java-3.19.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/servlet-api-2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/spring-aop-5.2.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/spring-beans-5.2.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/spring-context-5.2.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/spring-core-5.2.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/spring-expression-5.2.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/spring-jcl-5.2.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/spring-jdbc-5.2.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/spring-tx-5.2.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/spring-web-5.2.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/lib/spring-webmvc-5.2.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/calendar/css/bootstrap335.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/calendar/css/dcalendar.picker.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/css/dcalendar.picker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/calendar/css/zzsc.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/css/htmleaf-demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/calendar/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/calendar/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/calendar/js/dcalendar.picker.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/js/dcalendar.picker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/calendar/js/jquery-1.11.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/js/jquery-1.11.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/css/tailwind.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/0508.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/bg1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/img_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/jobs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/lecture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/news01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/news02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/news04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/news06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/news07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/news08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/news09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/news10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/news11 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/news11 (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/news11 (3).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/shetuan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/img/tu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/js/jquery-2.1.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/js/jquery-3.2.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/js/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/js/jquery-3.3.1.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/js/jquery-3.6.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/school_war_exploded/static/mycss/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecut/controller/AdminStudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecut/controller/AdminStudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecut/controller/ClientTeacherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecut/controller/ClientTeacherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecut/controller/TeacherCourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecut/controller/TeacherCourseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecut/dao/StudentCourseMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecut/dao/StudentCourseMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecut/pojo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecut/pojo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ecut/controller/AdminStudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ecut/controller/AdminStudentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ecut/controller/ClientTeacherController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ecut/controller/ClientTeacherController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ecut/controller/TeacherCourseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ecut/controller/TeacherCourseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ecut/pojo/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ecut/pojo/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/client/shetuan.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/client/shetuan.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/client/teacher.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/client/teacher.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/client/teacherLogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/client/teacherLogin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/calendar/css/dcalendar.picker.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/calendar/css/dcalendar.picker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/css/bootstrap.min.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a45d0a5d-5ed9-4694-9fc9-a3e4cfc67279" />
+        <option name="url" value="https://github.com/UItiCh/Shcool.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../ruanjian/apache-maven-3.9.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\ruanjian\apache-maven-3.9.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dfile.encoding=UTF-8" />
+  </component>
+  <component name="ProjectId" id="227M3iw9sXOib54uctUk5sWvj8P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/cg107/Desktop/school/web/static&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;全局库&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15429688&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.3317919&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ecut.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\cg107\Desktop\school\web\static" />
+      <recent name="D:\cg107\Desktop\school\web\static\js" />
+      <recent name="D:\cg107\Desktop\school\web\static\fonts" />
+      <recent name="D:\cg107\Desktop\school\web\static\calendar\css" />
+      <recent name="C:\Users\putao\Desktop\school\web\static\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java学习\school\src\main\java\com\ecut" />
+      <recent name="D:\java培训\school\web\WEB-INF\admin" />
+      <recent name="D:\java培训\school\web\WEB-INF\login" />
+      <recent name="D:\java培训\school\web" />
+      <recent name="D:\java培训\school\web\WEB-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ecut.interceptor" />
+      <recent name="com.ecut" />
+      <recent name="com.ecut.controller" />
+      <recent name="com.ecut.pojo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.87" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.87" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.jsp" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8 " />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="school:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+        <artifact name="school:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/school_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="10a7db5e-f2a4-48c9-858a-f46e2f3d7db5" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56831" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="school:war" />
+          <artifact name="school:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a87c3bc9-fcce-4351-a3ca-bd8c2e86c0e9" name="Default Changelist" comment="" />
+      <created>1639183976056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639183976056</updated>
+      <workItem from="1639183977538" duration="24248000" />
+      <workItem from="1639234458152" duration="298000" />
+      <workItem from="1639269620710" duration="15453000" />
+      <workItem from="1639310442042" duration="282000" />
+      <workItem from="1639310744403" duration="8854000" />
+      <workItem from="1639358842456" duration="2065000" />
+      <workItem from="1639361798543" duration="35907000" />
+      <workItem from="1639441595395" duration="11760000" />
+      <workItem from="1639457319230" duration="16678000" />
+      <workItem from="1639534588216" duration="19565000" />
+      <workItem from="1639613843772" duration="4313000" />
+      <workItem from="1639618285986" duration="34686000" />
+      <workItem from="1639700318561" duration="10803000" />
+      <workItem from="1639720735638" duration="20285000" />
+      <workItem from="1639792904375" duration="17503000" />
+      <workItem from="1639874533995" duration="2963000" />
+      <workItem from="1639877547481" duration="458000" />
+      <workItem from="1639878029202" duration="7818000" />
+      <workItem from="1639964613850" duration="10655000" />
+      <workItem from="1639980884781" duration="22142000" />
+      <workItem from="1640047475573" duration="25519000" />
+      <workItem from="1640089552312" duration="2029000" />
+      <workItem from="1640091623065" duration="5413000" />
+      <workItem from="1640134260039" duration="19670000" />
+      <workItem from="1640218080659" duration="27661000" />
+      <workItem from="1640256793430" duration="5387000" />
+      <workItem from="1683457959114" duration="6269000" />
+      <workItem from="1683532496373" duration="2515000" />
+      <workItem from="1683535078463" duration="977000" />
+      <workItem from="1683536107461" duration="10035000" />
+      <workItem from="1683561182656" duration="5803000" />
+      <workItem from="1683598074885" duration="9040000" />
+      <workItem from="1683699237514" duration="1321000" />
+      <workItem from="1683700940267" duration="1744000" />
+      <workItem from="1683725695369" duration="1908000" />
+      <workItem from="1683808135793" duration="2820000" />
+      <workItem from="1683977677466" duration="5196000" />
+      <workItem from="1684051673020" duration="8128000" />
+      <workItem from="1684110418936" duration="162000" />
+      <workItem from="1684302102091" duration="176000" />
+      <workItem from="1684659572491" duration="574000" />
+      <workItem from="1684660539172" duration="1086000" />
+      <workItem from="1684661637213" duration="182000" />
+      <workItem from="1684661836182" duration="441000" />
+      <workItem from="1684662285667" duration="495000" />
+      <workItem from="1684663460087" duration="334000" />
+      <workItem from="1684667805834" duration="14000" />
+      <workItem from="1684669730682" duration="364000" />
+      <workItem from="1684715079318" duration="990000" />
+      <workItem from="1684716088907" duration="355000" />
+      <workItem from="1684733257463" duration="115000" />
+      <workItem from="1684767762088" duration="3382000" />
+      <workItem from="1684915569442" duration="727000" />
+      <workItem from="1685073090559" duration="870000" />
+      <workItem from="1685320957826" duration="302000" />
+      <workItem from="1685603707019" duration="106000" />
+      <workItem from="1685622161349" duration="13000" />
+      <workItem from="1686117919511" duration="94000" />
+      <workItem from="1686134755307" duration="303000" />
+      <workItem from="1686135069104" duration="301000" />
+      <workItem from="1686135384874" duration="5000" />
+      <workItem from="1686135887255" duration="63000" />
+      <workItem from="1686280863548" duration="31000" />
+      <workItem from="1687609019751" duration="919000" />
+      <workItem from="1687609957225" duration="1340000" />
+      <workItem from="1687672282058" duration="20000" />
+      <workItem from="1687674001422" duration="15140000" />
+      <workItem from="1687705664759" duration="4459000" />
+      <workItem from="1687712018990" duration="663000" />
+      <workItem from="1687738607362" duration="1071000" />
+    </task>
+    <task id="LOCAL-00001" summary="Default Changelist">
+      <created>1684663603560</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684663603560</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Default Changelist">
+      <created>1684666033096</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684666033096</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Default Changelist">
+      <created>1684666044929</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684666044929</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Default Changelist">
+      <created>1684667273466</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684667273466</updated>
+    </task>
+    <task id="LOCAL-00005" summary="19:49">
+      <created>1684669779036</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684669779036</updated>
+    </task>
+    <task id="LOCAL-00006" summary="8:25">
+      <created>1684715163271</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684715163271</updated>
+    </task>
+    <task id="LOCAL-00007" summary="5/22 23:57">
+      <created>1684771088242</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684771088242</updated>
+    </task>
+    <task id="LOCAL-00008" summary="5/22 23:57">
+      <created>1684771122839</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684771122839</updated>
+    </task>
+    <task id="LOCAL-00009" summary="5/22 23:57">
+      <created>1684771134294</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684771134294</updated>
+    </task>
+    <task id="LOCAL-00010" summary="5/22 23:57">
+      <created>1686135211616</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686135211616</updated>
+    </task>
+    <task id="LOCAL-00011" summary="5/22 23:57">
+      <created>1686135225878</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686135225878</updated>
+    </task>
+    <task id="LOCAL-00012" summary="6/7">
+      <created>1686135231830</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686135231830</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="f448c302-f8ef-420d-b2dc-6aca90cc2b31">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Default Changelist" />
+    <MESSAGE value="19:49" />
+    <MESSAGE value="8:25" />
+    <MESSAGE value="5/22 23:57" />
+    <MESSAGE value="6/7" />
+    <option name="LAST_COMMIT_MESSAGE" value="6/7" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ecut/controller/ClientStudentController.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ecut/controller/AdminClassesController.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ecut/controller/AdminClassesController.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ecut/controller/AdminClassesController.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ecut/controller/AdminClassesController.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ecut/controller/StudentChooseCourseController.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ecut/controller/StudentChooseCourseController.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ecut/service/impl/TeacherServiceImpl.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/WEB-INF/client/teacher.jsp</url>
+          <line>374</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/school$Tomcat_8_5_87.ic" NAME="Tomcat 8.5.87 覆盖结果" MODIFIED="1687709791794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
